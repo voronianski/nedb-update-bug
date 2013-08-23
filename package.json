@@ -1,0 +1,13 @@
+{
+  "name": "nedb-update-bug",
+  "version": "0.0.1",
+  "description": "nedb bug with update",
+  "main": "bug.js",
+  "scripts": {
+    "start": "node bug.js"
+  },
+  "dependencies": {
+    "nedb": "~0.8.6",
+    "userhome": "~0.1.0"
+  }
+}
